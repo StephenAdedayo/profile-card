@@ -102,10 +102,11 @@ body{
     padding: 8px 24px;
     background-color: #4070f4;
     cursor:pointer;
-    transition: all 0.3s ease;
+    transition:all 0.3s ease;
   }
   .buttons .button:hover{
     background-color: #0e4bf1;
+    
   }
   .profile-card .analytics{
     display: flex;
